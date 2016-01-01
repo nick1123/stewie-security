@@ -54,4 +54,4 @@ Go through this several times and you'll have a string of words like `wok clam f
 
 ### Strategy 5: Password card
 
-[This site](http://www.passwordcard.org/) will create a bunch of random of passwords that you can print out on paper store and somewhere safe.
+[This site](http://www.passwordcard.org/) will create a bunch of random of passwords that you can print out on paper and store somewhere safe.
