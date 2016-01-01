@@ -1,0 +1,111 @@
+# Top 100 Adobe Users' Passwords
+
+Some time ago there was a security breach of Adobe's users' passwords.
+The hackers were able to decrypt many of the passwords.
+
+Here is a list of the top 100 most common passwords:
+
+```
+#      Count       Password
+-------------------------------
+1.   1911938       123456
+2.    446162       123456789
+3.    345834       password
+4.    211659       adobe123
+5.    201580       12345678
+6.    130832       qwerty
+7.    124253       1234567
+8.    113884       111111
+9.     83411       photoshop
+10.    82694       123123
+11.    76910       1234567890
+12.    76186       000000
+13.    70791       abc123
+14.    61453       1234
+15.    56744       adobe1
+16.    54651       macromedia
+17.    48850       azerty
+18.    47142       iloveyou
+19.    44281       aaaaaa
+20.    43670       654321
+21.    43497       12345
+22.    37407       666666
+23.    35325       sunshine
+24.    34963       123321
+25.    33452       letmein
+26.    32549       monkey
+27.    31554       asdfgh
+28.    28349       password1
+29.    28303       shadow
+30.    28132       princess
+31.    27853       dragon
+32.    27840       adobeadobe
+33.    27720       daniel
+34.    27699       computer
+35.    27415       michael
+36.    27387       121212
+37.    26502       charlie
+38.    25341       master
+39.    24499       superman
+40.    24372       qwertyuiop
+41.    23417       112233
+42.    23157       asdfasdf
+43.    22719       jessica
+44.    22672       1q2w3e4r
+45.    22204       welcome
+46.    22180       1qaz2wsx
+47.    22143       987654321
+48.    22103       fdsa
+49.    21795       753951
+50.    21449       chocolate
+51.    21383       fuckyou
+52.    21208       soccer
+53.    21100       tigger
+54.    20961       asdasd
+55.    20581       thomas
+56.    20578       asdfghjkl
+57.    20571       internet
+58.    20331       michelle
+59.    20268       football
+60.    20022       123qwe
+61.    19907       zxcvbnm
+62.    19825       dreamweaver
+63.    19818       7777777
+64.    19237       maggie
+65.    19129       qazwsx
+66.    19113       baseball
+67.    18969       jennifer
+68.    18879       jordan
+69.    18470       abcd1234
+70.    18177       trustno1
+71.    18108       buster
+72.    18049       555555
+73.    18008       liverpool
+74.    17986       abc
+75.    17933       whatever
+76.    17717       11111111
+77.    17706       102030
+78.    17581       123123123
+79.    17454       andrea
+80.    17442       pepper
+81.    17296       nicole
+82.    17174       killer
+83.    17077       abcdef
+84.    16963       hannah
+85.    16898       test
+86.    16616       alexander
+87.    16535       andrew
+88.    16526       222222
+89.    16468       joshua
+90.    16456       freedom
+91.    16374       samsung
+92.    16177       asdfghj
+93.    16091       purple
+94.    16073       ginger
+95.    15962       123654
+96.    15910       matrix
+97.    15803       secret
+98.    15788       summer
+99.    15752       1q2w3e
+100.   15637       snoopy1
+```

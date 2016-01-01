@@ -17,7 +17,7 @@ Your email account holds the keys to the kingdom.  If a hacker gets access to yo
 
 *How to protect your email account:*
 
-* Change your password to something no would ever guess
+* [Change your password to something no would ever guess](how_to_create_a_strong_password.md)
 * Don't use the same password for anything else
 * Enable 2-factor authentication
 * Use a VPN in public places
