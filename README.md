@@ -50,15 +50,25 @@ Bruce Schneier
 Dan Erwin, Security Officer, Dow Chemical Co.
 
 > As we know,
+> 
 > There are known knowns.
+> 
 > There are things we know we know.
+> 
 > We also know
+> 
 > There are known unknowns.
+> 
 > That is to say
+> 
 > We know there are some things
+> 
 > We do not know.
+> 
 > But there are also unknown unknowns,
+> 
 > The ones we don't know
+> 
 > We don't know.
 
 Donald Rumsfeld, February 12, 2002, Department of Defense news briefing
