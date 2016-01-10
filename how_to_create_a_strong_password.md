@@ -35,7 +35,7 @@ Take the first letter of each word and make it your password.
 
 For example, take this passage from [The Conquest of Bread](https://en.wikipedia.org/wiki/The_Conquest_of_Bread):
 
-    All is for all! If the man and the woman bear their fair share of work, they have a right to their fair share of all that is produced by all, and that share is enough to secure them well-being.
+> All is for all! If the man and the woman bear their fair share of work, they have a right to their fair share of all that is produced by all, and that share is enough to secure them well-being.
 
 Your password is: AifaItmatwbtfsowtharttfsoatipbaatsietstwb
 
