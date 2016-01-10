@@ -8,8 +8,8 @@ You never be totally secure online. Rather there're a series of steps that you c
 
 ### Steps
 
-[Step 1:  Lock down your email account](how_to_lock_down_your_email_account.md)
-
+* [Step 1:  Lock down your email account](how_to_lock_down_your_email_account.md)
+* [Step 2: Lock down all your other important online accounts](how_to_lock_all_your_important_accounts.md)
 
 ### Don't use Windows
 
