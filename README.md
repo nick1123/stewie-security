@@ -4,12 +4,24 @@
 
 ## Security Stages
 
-You never be totally secure online. Rather there're a series of steps that you can take to become increasingly secure. The beginning steps are easy and taking just the first few steps can greatly increase you're security.
+You'll never be totally secure online; totally security is an illusion.
+
+But there're a series of steps that you can take to become increasingly secure. The beginning steps are easy and taking just the first few steps will greatly increase your security.
 
 ### Steps
 
 * [Step 1:  Lock down your email account](how_to_lock_down_your_email_account.md)
 * [Step 2: Lock down all your other important online accounts](how_to_lock_all_your_important_accounts.md)
+* Step 3: Switch to Firefox (instead of Chrome, Safari, etc) because it's OpenSource.  [*Read why Open Source software is better*](why_open_source_is_better.md)
+* Step 4: Add privacy enhancing plugins to Firefox
+
+Checkout these important security resources:
+
+* [r/privacy FAQ](https://www.reddit.com/r/privacy/wiki/index)
+* [Prism Break](https://prism-break.org/en/)
+* [Privacy Tools](https://www.privacytools.io/)
+
+
 
 ### Don't use Windows
 
